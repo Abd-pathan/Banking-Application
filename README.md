@@ -16,7 +16,7 @@ The prohect Banking Application is a comprehensive banking system built using Sp
 - **Thymeleaf**: Template engine for rendering views.
 - **Spring Security**: Handles authentication and authorization.
 - **Hibernate/JPA**: ORM for database operations.
-- **H2 Database**: In-memory database for development and testing.
+- **PostgreSQL**: Database for storing persistent data.
 - **Maven**: Dependency management and build tool.
 
 ## Getting Started
